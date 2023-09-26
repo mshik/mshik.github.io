@@ -1,4 +1,4 @@
-My name is **Shikha Mallick**. Here is my personal website. The template is forked from [GuangLun2000](https://github.com/GuangLun2000/GuangLun2000.github.io)!
+My name is **Shikha Mallick**. Here is my personal website! The template is forked from [GuangLun2000](https://github.com/GuangLun2000/GuangLun2000.github.io).
 
 ## Update and News
 
