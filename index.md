@@ -8,15 +8,15 @@ layout: page
 
 Hi, this is **Shikha Mallick**.
 
-I am a machine learning engineer working in **Intelligent Control Systems** at Siemens Industry Software (India) Private Limited. Here is [[my CV](https://caihanlin.com/file/CV-HanlinCAI.pdf)].
+I am a machine learning engineer working in **Intelligent Control Systems** at Siemens Industry Software (India) Private Limited. Here is [[my CV](file/CV_Shikha_Mallick.pdf)].
 
 <br>
 
 ## Academic Background
 
-**<font color='red'>[Highlight]</font> I am looking for PhD to start in 2024 Fall. Contact me if you have any leads!**
+**<font color='red'>[Highlight]</font> I am looking for PhD to start in 2025 Spring. Contact me if you have any leads!**
 
-- **Aug 2013 - June 2017:** United College of Engineering and Research (Bachelor of Technology)
+- **Aug 2013 - June 2017:** Dr. A.P.J. Abdul Kalam Technical University (Bachelor of Technology)
 - **Jul 2019 - Jul 2022:** Indian Institute of Technology Palakkad (MS)
 
 <br>
@@ -25,11 +25,11 @@ I am a machine learning engineer working in **Intelligent Control Systems** at S
 
 ## Research Interests
 
-- Industrial IoT System
-- Bluetooth Low Energy
-- Applied Machine Learning
+- Multimodal AI
+- AI in Drug Discovery
+- Generative AI
 
-My current research focuses on practical problems that artificial intelligence faces in real life. My interests are on the **Machine Learning** and its applications in **Industrial IoT**. In a word, advanced technologies like ML and IoT positively influence the life of everybody.  I wish to devote my talent to this meaningful cause and bring well-being to society.
+My current work focuses on practical problems that artificial intelligence faces in real world applications like healthcare, autonomous driving, among others. My interests are in **Machine Learning** and its applications in the **Healthcare** domain. In a nutshell, advanced technologies like Machine Learning in Healthcare positively influence human life.  I wish to devote my talent to bridge the gap between AI and domain experts in the healthcare sector to increase patient outcomes.
 
 <br>
 
@@ -37,10 +37,9 @@ My current research focuses on practical problems that artificial intelligence f
 
 ## News and Updates
 
-- **Sep 2023：**Our works [DefenderIoT](https://fzuiot.site/) has been officially publicized by [Youth of FZU](https://mp.weixin.qq.com/s/MF2NJQtEHsVwsm8Ym-l7Gg).
-- **Aug 2023：**Happy to be awarded the FEPG Scholarship.
-- **May 2023：**Happy to be awarded the XiamenAir Scholarship.
-- **May 2023：**Collected the Finalist Award in MCM 2023.
-- **Jan 2023：**One paper accepted to ICAROB 2023, see you in Japan!
-- **Jun 2022：**Visiting Research Intern at Cambridge University, advised by [Prof. Pietro Liò](https://www.cl.cam.ac.uk/~pl219/ ).
-- If you are interested in my works, please feel free to book an [[online talk with me](https://calendly.com/lancecai/meet-with-lance)].
+- **Mar 2024：**My first paper [CDGCN: Conditional de novo Drug Generative Model Using Graph Convolution Networks](https://link.springer.com/chapter/10.1007/978-3-031-29119-7_7) has received its first citation! h-index 1.
+- **Apr 2023：**Our work, [Physics and Data-Informed Formulation Design and Development for Chemical Processes](https://aiche.confex.com/aiche/2023/meetingapp.cgi/Paper/662550), has been accepted in AIChe Spring Meet 2023.
+- **Apr 2023：**My first paper, [CDGCN: Conditional de novo Drug Generative Model Using Graph Convolution Networks](https://link.springer.com/chapter/10.1007/978-3-031-29119-7_7) is published in RECOMB 2023, see you in Istanbul!
+- **Aug 2021：**We won first prize for our work, [XGB-EVM](https://github.com/mshik/XGB-EVM), in the AI for Healthcare hackathon sponsored by SINE IITB and Derbi Foundation.
+- **Jun 2022：**Successfully defended my MS thesis!
+- If you are interested in my work, please feel free to chat/mail on [[my gmail](mallickshikha@gmail.com)].
