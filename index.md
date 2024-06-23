@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="images/Photo_Shikha_Mallick.jpg" class="floatpic" width="200" height="260">
+<img src="images/Photo_Shikha_Mallick.jpg" class="floatpic" width="180" height="220">
 
 Hi, this is **Shikha Mallick**.
 
