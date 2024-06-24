@@ -4,7 +4,7 @@ permalink: /publications/index.html
 title: Publications
 ---
 
-Lastest Update: 15th Sep 2023&nbsp;
+Lastest Update: 24th Jun 2024&nbsp;
 
 ## Conference Paper
 
