@@ -1,30 +1,24 @@
-title: Hanlin Cai
-# tagline: Here is personal website of Hanlin Cai. Powered by Jekyll, based on the Minimal Mistakes theme.
+title: Shikha Mallick
+# tagline: Here is personal website of Shikha Mallick. Powered by Jekyll, based on the Minimal Mistakes theme.
 # description: Two roads diverged in woods, I took the one less traveled by.
 #Comment out url when working locally to resolve base urls correctly
-url: https://caihanlin.com
+#url: https://caihanlin.com
 
 # Owner/author information
 owner:
-  name: Hanlin Cai
-  avatar: hanlin.jpg
+  name: Shikha Mallick
+  avatar: images/Photo_Shikha_Mallick.jpg
  # bio:
-  email: hanlin.cai@ieee.org
+  email: mallickshikha@gmail.com
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  twitter: lancecai2002
-  # facebook: caihanlin2002
-  github: GuangLun2000
-  linkedin: hanlincai
-  scholar: https://scholar.google.com/citations?user=8igSoWgAAAAJ
-  # instagram: lancecai2002
-  # lastfm:
-  # tumblr:
-  # For Google Authorship https://plus.google.com/authorship
-  # google_plus:
+  twitter: shikha_mallick
+  github: mshik
+  linkedin: shikha-mallick
+  scholar: https://scholar.google.com/citations?user=EbFcbBIAAAAJ&hl=en
 
 # Analytics and webmaster tools stuff goes here
 # https://search.google.com/search-console/ownership
-google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
+#google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
 
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 # bing_verify: ""
@@ -35,7 +29,7 @@ links:
   - title: About Me
     url: /
   - title: Resume
-    url: /file/CV-HanlinCAI.pdf
+    url: /file/CV_Shikha_Mallick.pdf
   - title: Publications
     url: /publications/
   - title: Awards
@@ -48,7 +42,7 @@ links:
     url: /blogs/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone: China/Beijing
+timezone: Asia/Kolkata
 future: true
 highlighter: rouge
 # markdown: kramdown
@@ -76,10 +70,8 @@ kramdown:
 
 
 # disqus settings:
-disqus:
-  shortname: lancecai
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "minimal-mistakes.sublime-project", "minimal-mistakes.sublime-workspace"]
 
-# Latest update in 2023/08/28 by Hanlin Cai.
+# Latest update in 2024/06/24 by Shikha Mallick.
