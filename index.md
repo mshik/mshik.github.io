@@ -14,7 +14,7 @@ I am a machine learning engineer working in **Intelligent Control Systems** at S
 
 ## Academic Background
 
-**<font color='red'>[Highlight]</font> I am looking for PhD to start in 2025 Spring. Contact me if you have any leads!**
+**<font color='red'>[Highlight]</font> I am looking for PhD to start in 2025 Fall. Contact me if you have any leads!**
 
 - **Aug 2013 - June 2017:** Dr. A.P.J. Abdul Kalam Technical University (Bachelor of Technology)
 - **Jul 2019 - Jul 2022:** Indian Institute of Technology Palakkad (MS)
