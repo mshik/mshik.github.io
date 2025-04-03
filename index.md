@@ -8,7 +8,7 @@ layout: page
 
 Hi, this is **Shikha Mallick**.
 
-I am a machine learning engineer working in **Intelligent Control Systems** at Siemens Industry Software (India) Private Limited. Here is [[my CV](file/CV_Shikha_Mallick.pdf)].
+I am a machine learning engineer in the **Intelligent Control Systems** team at Siemens Industry Software (India) Private Limited. Here is [[my CV](file/Shikha_Mallick_Resume.pdf)].
 
 <br>
 
