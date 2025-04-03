@@ -29,7 +29,7 @@ links:
   - title: About Me
     url: /
   - title: Resume
-    url: /file/CV_Shikha_Mallick.pdf
+    url: /file/Shikha_Mallick_Resume.pdf
   - title: Publications
     url: /publications/
   - title: Awards
@@ -68,4 +68,4 @@ kramdown:
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "minimal-mistakes.sublime-project", "minimal-mistakes.sublime-workspace"]
 
-# Latest update in 2024/06/24 by Shikha Mallick.
+# Latest update in 2025/04/03 by Shikha Mallick.
