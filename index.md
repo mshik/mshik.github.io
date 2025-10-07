@@ -57,4 +57,3 @@ My current work focuses on mitigating bias in social networks. I also have exper
   XGB-EVM <span aria-hidden="true">↗</span>
 </a> in the AI for Healthcare hackathon sponsored by SINE IITB and Derbi Foundation.
 - **Jun 2022：** Successfully defended my MS thesis!
-- If you are interested in my work, please feel free to chat/mail on [my gmail](mallickshikha@gmail.com).
