@@ -8,7 +8,10 @@ layout: page
 
 Hi, this is **Shikha Mallick**.
 
-I am a Ph.D. student in the Department of **Computer Science** at University of Victoria, BC, Canada. Here is [[my CV](file/Shikha_Mallick_Resume.pdf)].
+I am a Ph.D. student in the Department of **Computer Science** at University of Victoria, BC, Canada. Here is <a href="file/Shikha_Mallick_Resume.pdf" target="_blank" rel="noopener"
+   aria-label="[my CV] (opens in a new tab)">
+  [my CV] <span aria-hidden="true">↗</span>
+</a>.
 
 <br>
 
