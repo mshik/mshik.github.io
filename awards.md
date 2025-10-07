@@ -8,8 +8,10 @@ Lastest Update: 11th Aug 2024
 
 ## Scholarships
 
+- Sep 2025: **University of Victoria Graduate Fellowship – Doctoral** ($30,000)<br>University fellowship for Ph.D. students on recommendation from supervisor and department.
+- Sep 2025: **International Doctoral Entrance Fellowship** ($5290.14)<br>University fellowship for international Ph.D. students on recommendation from supervisor and department based on grades and research contributions in Masters.
 - Jul 2019：**HTRA/HTTA Scholarship** (about $4500)<br>Government assistantship scheme for MS students to assist the department with 8 hours of work per week related to academic activities of the department, such as laboratory demonstration, tutorials, evaluation of assignments, test papers, seminars, research projects, etc.
-- Jun 2016：Summer Internship Scholarship (about $2300)<br>Combined summer internship scholarship between UCER India and AIT Bangkok.<br>
+- Jun 2016：**Summer Internship Scholarship** (about $2300)<br>Combined summer internship scholarship between UCER India and AIT Bangkok.<br>
 
 ## Competitions
 
@@ -17,7 +19,7 @@ Lastest Update: 11th Aug 2024
 
 ## Honors
 
-- Jun 2016：**Summer Internship Scholarship (Top 0.005%)**<br>Funded by UCER India and AIT Bangkok.
+- Jun 2016：**Summer Internship Scholarship (Top 0.005%)** <br>Funded by UCER India and AIT Bangkok.
 
 ## Services
 
