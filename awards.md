@@ -15,7 +15,10 @@ Lastest Update: 11th Aug 2024
 
 ## Competitions
 
-- Aug 2021：**First Prize (National championship)** (about $2400) in "AI for Healthcare" hackathon sponsored by Derbi Foundation and SINE IIT Bombay. Developed an AI-based solution for disease classification from FUNDUS retina images. XGB-EVM: Ensemble Deep Model for Disease Classification from FUNDUS Retina Images. Link to the project: https://github.com/mshik/XGB-EVM.
+- Aug 2021：**First Prize (National championship)** (about $2400) in "AI for Healthcare" hackathon sponsored by Derbi Foundation and SINE IIT Bombay. Developed an AI-based solution for disease classification from FUNDUS retina images. XGB-EVM: Ensemble Deep Model for Disease Classification from FUNDUS Retina Images. <a href="https://github.com/mshik/XGB-EVM" target="_blank" rel="noopener"
+   aria-label="Link to the project (opens in a new tab)">
+  Link to the project <span aria-hidden="true">↗</span>
+</a>.
 
 ## Honors
 
