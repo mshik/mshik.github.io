@@ -10,7 +10,7 @@ Hi, this is **Shikha Mallick**.
 
 I am a Ph.D. student in the Department of **Computer Science** at University of Victoria, BC, Canada. Here is <a href="file/Shikha_Mallick_Resume.pdf" target="_blank" rel="noopener"
    aria-label="my CV (opens in a new tab)">
-  [my CV] <span aria-hidden="true">↗</span>
+  my CV <span aria-hidden="true">↗</span>
 </a>.
 
 <br>
@@ -40,9 +40,24 @@ My current work focuses on mitigating bias in social networks. I also have exper
 
 ## News and Updates
 
-- **Mar 2024：**My first paper [CDGCN: Conditional de novo Drug Generative Model Using Graph Convolution Networks](https://link.springer.com/chapter/10.1007/978-3-031-29119-7_7) has received its first citation! h-index 1.
-- **Apr 2023：**Our work, [Physics and Data-Informed Formulation Design and Development for Chemical Processes](https://aiche.confex.com/aiche/2023/meetingapp.cgi/Paper/662550), has been accepted in AIChe Spring Meet 2023.
-- **Apr 2023：**My first paper, [CDGCN: Conditional de novo Drug Generative Model Using Graph Convolution Networks](https://link.springer.com/chapter/10.1007/978-3-031-29119-7_7) is published in RECOMB 2023, see you in Istanbul!
-- **Aug 2021：**We won first prize for our work, [XGB-EVM](https://github.com/mshik/XGB-EVM), in the AI for Healthcare hackathon sponsored by SINE IITB and Derbi Foundation.
-- **Jun 2022：**Successfully defended my MS thesis!
-- If you are interested in my work, please feel free to chat/mail on [[my gmail](mallickshikha@gmail.com)].
+- **Mar 2024：** My first paper <a href="https://link.springer.com/chapter/10.1007/978-3-031-29119-7_7" target="_blank" rel="noopener"
+   aria-label="CDGCN: Conditional de novo Drug Generative Model Using Graph Convolution Networks (opens in a new tab)">
+  CDGCN: Conditional de novo Drug Generative Model Using Graph Convolution Networks <span aria-hidden="true">↗</span>
+</a> has received its first citation! h-index 1.
+- **Apr 2023：** Our work, <a href="https://aiche.confex.com/aiche/2023/meetingapp.cgi/Paper/662550" target="_blank" rel="noopener"
+   aria-label="Physics and Data-Informed Formulation Design and Development for Chemical Processes (opens in a new tab)">
+  Physics and Data-Informed Formulation Design and Development for Chemical Processes <span aria-hidden="true">↗</span>
+</a> has been accepted in AIChE Spring Meet 2023.
+- **Apr 2023：** My first paper, <a href="https://link.springer.com/chapter/10.1007/978-3-031-29119-7_7" target="_blank" rel="noopener"
+   aria-label="CDGCN: Conditional de novo Drug Generative Model Using Graph Convolution Networks (opens in a new tab)">
+  CDGCN: Conditional de novo Drug Generative Model Using Graph Convolution Networks <span aria-hidden="true">↗</span>
+</a> is published in RECOMB 2023, see you in Istanbul!
+- **Aug 2021：** We won first prize for our work, <a href="[https://link.springer.com/chapter/10.1007/978-3-031-29119-7_7](https://github.com/mshik/XGB-EVM)" target="_blank" rel="noopener"
+   aria-label="XGB-EVM (opens in a new tab)">
+  XGB-EVM <span aria-hidden="true">↗</span>
+</a> in the AI for Healthcare hackathon sponsored by SINE IITB and Derbi Foundation.
+- **Jun 2022：** Successfully defended my MS thesis!
+- If you are interested in my work, please feel free to chat/mail on <a href="mallickshikha@gmail.com" target="_blank" rel="noopener"
+   aria-label="my gmail (opens in a new tab)">
+  my gmail <span aria-hidden="true">↗</span>
+</a>.
