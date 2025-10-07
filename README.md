@@ -6,4 +6,4 @@ My name is **Shikha Mallick**. Here is my personal website! The template is fork
 
 ## Statement
 
-© 2024 Shikha Mallick. Published with [GitHub Pages](https://pages.github.com/), forked from [GuangLun2000](https://github.com/GuangLun2000/GuangLun2000.github.io), powered by [Jekyll](https://jekyllrb.com/), based on the [Minimal Mistakes](https://mademistakes.com/) theme and [Jason Ansel's site](https://github.com/jansel/jansel.github.io). Source code for this website can be found [here](https://github.com/mshik/mshik.github.io).
+© 2025 Shikha Mallick. Published with [GitHub Pages](https://pages.github.com/), forked from [GuangLun2000](https://github.com/GuangLun2000/GuangLun2000.github.io), powered by [Jekyll](https://jekyllrb.com/), based on the [Minimal Mistakes](https://mademistakes.com/) theme and [Jason Ansel's site](https://github.com/jansel/jansel.github.io). Source code for this website can be found [here](https://github.com/mshik/mshik.github.io).
