@@ -8,16 +8,16 @@ layout: page
 
 Hi, this is **Shikha Mallick**.
 
-I am a machine learning engineer in the **Intelligent Control Systems** team at Siemens Industry Software (India) Private Limited. Here is [[my CV](file/Shikha_Mallick_Resume.pdf)].
+I am a Ph.D. student in the Department of **Computer Science** at University of Victoria, BC, Canada. Here is [[my CV](file/Shikha_Mallick_Resume.pdf)].
 
 <br>
 
 ## Academic Background
 
-**<font color='red'>[Highlight]</font> I am looking for PhD to start in 2025 Fall. Contact me if you have any leads!**
+**<font color='red'>[Highlight]</font> I am looking for internships to start in 2026 Fall. Contact me if you have any leads!**
 
+- **Jul 2019 - Jul 2022:** Indian Institute of Technology Palakkad (Master of Science (MS) by Research)
 - **Aug 2013 - June 2017:** Dr. A.P.J. Abdul Kalam Technical University (Bachelor of Technology)
-- **Jul 2019 - Jul 2022:** Indian Institute of Technology Palakkad (MS)
 
 <br>
 
@@ -25,11 +25,11 @@ I am a machine learning engineer in the **Intelligent Control Systems** team at 
 
 ## Research Interests
 
-- Multimodal AI
-- AI in Drug Discovery
+- Bias in Social Networks
 - Generative AI
+- AI in Drug Discovery
 
-My current work focuses on practical problems that artificial intelligence faces in real world applications like healthcare, autonomous driving, among others. My interests are in **Machine Learning** and its applications in the **Healthcare** domain. In a nutshell, advanced technologies like Machine Learning in Healthcare positively influence human life.  I wish to devote my talent to bridge the gap between AI and domain experts in the healthcare sector to increase patient outcomes.
+My current work focuses on mitigating bias in social networks. I also have experience in practical problems that artificial intelligence faces in real world applications like healthcare, autonomous driving, among others. I wish to devote my talent to creating significant contributions in the field of AI.
 
 <br>
 
