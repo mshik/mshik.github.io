@@ -19,8 +19,9 @@ I am a Ph.D. student in the Department of **Computer Science** at University of 
 
 **<font color='red'>[Highlight]</font> I am looking for internships to start in 2026 Fall. Contact me if you have any leads!**
 
-- **Jul 2019 - Jul 2022:** Indian Institute of Technology Palakkad (Master of Science (MS) by Research)
-- **Aug 2013 - June 2017:** Dr. A.P.J. Abdul Kalam Technical University (Bachelor of Technology)
+- **Sep 2025 - Present:** University of Victoria (Ph.D. in Computer Science)
+- **Jul 2019 - Jul 2022:** Indian Institute of Technology Palakkad (Master of Science (MS) by Research in Computer Science)
+- **Aug 2013 - June 2017:** Dr. A.P.J. Abdul Kalam Technical University (Bachelor of Technology in Computer Science and Engineering)
 
 <br>
 
@@ -32,7 +33,7 @@ I am a Ph.D. student in the Department of **Computer Science** at University of 
 - Generative AI
 - AI in Drug Discovery
 
-My current work focuses on mitigating bias in social networks. I also have experience in practical problems that artificial intelligence faces in real world applications like healthcare, autonomous driving, among others. I wish to devote my talent to creating significant contributions in the field of AI.
+My current work focuses on mitigating bias in social networks. I also have experience in solving practical problems using artificial intelligence in real world applications like healthcare, autonomous driving, among others. I wish to devote my talent to creating significant contributions in the field of AI.
 
 <br>
 
@@ -52,8 +53,8 @@ My current work focuses on mitigating bias in social networks. I also have exper
    aria-label="CDGCN: Conditional de novo Drug Generative Model Using Graph Convolution Networks (opens in a new tab)">
   CDGCN: Conditional de novo Drug Generative Model Using Graph Convolution Networks <span aria-hidden="true">↗</span>
 </a> is published in RECOMB 2023, see you in Istanbul!
+</a> in the AI for Healthcare hackathon sponsored by SINE IITB and Derbi Foundation.
+- **Jun 2022：** Successfully defended my MS thesis!
 - **Aug 2021：** We won first prize for our work, <a href="https://github.com/mshik/XGB-EVM" target="_blank" rel="noopener"
    aria-label="XGB-EVM (opens in a new tab)">
   XGB-EVM <span aria-hidden="true">↗</span>
-</a> in the AI for Healthcare hackathon sponsored by SINE IITB and Derbi Foundation.
-- **Jun 2022：** Successfully defended my MS thesis!
