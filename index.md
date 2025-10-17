@@ -53,8 +53,8 @@ My current work focuses on mitigating bias in social networks. I also have exper
    aria-label="CDGCN: Conditional de novo Drug Generative Model Using Graph Convolution Networks (opens in a new tab)">
   CDGCN: Conditional de novo Drug Generative Model Using Graph Convolution Networks <span aria-hidden="true">↗</span>
 </a> is published in RECOMB 2023, see you in Istanbul!
-</a> in the AI for Healthcare hackathon sponsored by SINE IITB and Derbi Foundation.
 - **Jun 2022：** Successfully defended my MS thesis!
 - **Aug 2021：** We won first prize for our work, <a href="https://github.com/mshik/XGB-EVM" target="_blank" rel="noopener"
    aria-label="XGB-EVM (opens in a new tab)">
   XGB-EVM <span aria-hidden="true">↗</span>
+</a> in the AI for Healthcare hackathon sponsored by SINE IITB and Derbi Foundation.
